@@ -5,4 +5,6 @@ These are coloured using white, black, or the colours
 Orange - #FF914D  
 Blue - #004AAD  
 
+Cards are 236x361
+
 The font used is *Open Sans Extra Bold*
